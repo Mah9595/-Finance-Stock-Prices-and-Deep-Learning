@@ -1,4 +1,4 @@
-# -Finance-Stock-Prices-and-Deep-Learning
+# Finance Stock Prices and Deep Learning
 
 Advances in deep learning techniques in recent years means more people are becoming interested in applying deep learning to finance. 
 
